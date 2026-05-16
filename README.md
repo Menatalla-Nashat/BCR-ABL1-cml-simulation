@@ -24,15 +24,11 @@ The project was developed as part of a Numerical Analysis / MATLAB course projec
 
 ### mRNA dynamics
 
-[
-\frac{dM}{dt} = k_m - d_m M
-]
+[{dM}/{dt} = k_m - d_m M]
 
 ### Protein/activity dynamics
 
-[
-\frac{dP}{dt} = k_p M - d_p P - uP
-]
+[{dP}/{dt} = k_p M - d_p P - uP]
 
 Where:
 
